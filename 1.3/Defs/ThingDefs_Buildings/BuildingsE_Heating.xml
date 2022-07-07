@@ -55,7 +55,7 @@
 			</li>
 		</comps>
 		<researchPrerequisites>
-			<li MayRequire="dbhlitemode">CentralHeating</li>
+			<li MayRequire="dbhlitemode">AdvancedHeating</li>
 		</researchPrerequisites>
 	</ThingDef>
 
@@ -181,7 +181,7 @@
 			</li>
 		</comps>
 		<researchPrerequisites>
-			<li MayRequire="dbhlitemode">CentralHeating</li>
+			<li MayRequire="dbhlitemode">AdvancedHeating</li>
 		</researchPrerequisites>
 	</ThingDef>
 
@@ -238,7 +238,7 @@
 			<li Class="CompProperties_Breakdownable"/>
 		</comps>
 		<researchPrerequisites>
-			<li MayRequire="dbhlitemode">CentralHeating</li>
+			<li MayRequire="dbhlitemode">AdvancedHeating</li>
 		</researchPrerequisites>
 	</ThingDef>
 

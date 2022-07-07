@@ -71,6 +71,24 @@
 		<tab>DubsBadHygiene</tab>
 		<description>Build central heating systems with radiators, hot water tanks, boilers and thermostats.</description>
 		<baseCost>400</baseCost>
+		<techLevel>Medieval</techLevel>
+		<prerequisites>
+			<li>LogBoilers</li>
+			<li>Plumbing</li>
+		</prerequisites>
+		<tags>
+			<li>ClassicStart</li>
+		</tags>
+		<researchViewX>1</researchViewX>
+		<researchViewY>0</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef DBHLite="true">
+		<defName>AdvancedHeating</defName>
+		<label>advanced heating</label>
+		<tab>DubsBadHygiene</tab>
+		<description>Build advanced central heating systems with gas and electric boilers.</description>
+		<baseCost>400</baseCost>
 		<techLevel>Industrial</techLevel>
 		<prerequisites>
 			<li>LogBoilers</li>
@@ -80,9 +98,10 @@
 		<tags>
 			<li>ClassicStart</li>
 		</tags>
-		<researchViewX>2</researchViewX>
+		<researchViewX>3</researchViewX>
 		<researchViewY>0</researchViewY>
 	</ResearchProjectDef>
+
 
 	<ResearchProjectDef DBHLite="true">
 		<defName>GeothermalHeating</defName>
@@ -90,7 +109,7 @@
 		<tab>DubsBadHygiene</tab>
 		<description>Build geothermal heaters which can be built over geysers to generate heat for central heating and hot water tanks.</description>
 		<baseCost>800</baseCost>
-		<techLevel>Industrial</techLevel>
+		<techLevel>Medieval</techLevel>
 		<prerequisites>
 			<li>CentralHeating</li>
 		</prerequisites>
