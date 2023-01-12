@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <ModMetaData>
-	<name>Dubs Bad Hygiene</name>
+	<name>Dubs Bad Hygiene - Medieval</name>
 	<author>Dubwise</author>
 	<url>https://github.com/Dubwise56/Dubs-Bad-Hygiene/wiki</url>
 	<supportedVersions>
@@ -12,5 +12,7 @@
 		<li>1.4</li>
 	</supportedVersions>
 	<packageId>Dubwise.DubsBadHygiene</packageId>
-	<description>Adds toilets, bathing, sewage, hygiene-related needs and mood effects, central heating, water management and thirst, irrigation, fertilizer, air conditioning, hot tubs, kitchen sinks, and more! Also includes a Lite mode for a simplified experience</description>
+	<description>Adds toilets, bathing, sewage, hygiene-related needs and mood effects, central heating, water management and thirst, irrigation, fertilizer, air conditioning, hot tubs, kitchen sinks, and more! Also includes a Lite mode for a simplified experience.
+	This version also moves some technologies that don't require electricity to medieval tech level, for medieval play throughs.
+	</description>
 </ModMetaData>
